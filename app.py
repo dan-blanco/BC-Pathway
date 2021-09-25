@@ -104,6 +104,7 @@ if st.button("Send Transaction") and input_amount > 0:
         pychain.add_block(block)
     pychain_df = pd.DataFrame(pychain.chain)
     st.write(pychain_df)
+    st.write(pychain_df.record)
 
 
 
