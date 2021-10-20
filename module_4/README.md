@@ -7,7 +7,8 @@
 - The name of the token is "k" and the symbol is "k". 
 ![text](Img2.png)
 
-
+## Highlited here you can see the crowdsale beneficiary account
+- Received 1 Eth
 ![text](Img3.png)
 
 
